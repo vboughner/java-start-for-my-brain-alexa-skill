@@ -1,10 +1,10 @@
 # My Brain Alexa Skill
 
-I'm basing my new skill off of the Azamon sample for the scorekeeper, because it demonstrates how to use the DynamoDB.
+I'm basing my new skill off of the Amazon sample for the scorekeeper, because it demonstrates how to use the DynamoDB.
 Original source for this material is the [Alexa Skill Samples for Java](https://github.com/alexa/skill-samples-java).
 
 
-##Alexa Skills Kit SDK Sample - Score keeper
+## Alexa Skills Kit SDK Sample - Score keeper
 A simple [AWS Lambda](http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
 
 ## Concepts
